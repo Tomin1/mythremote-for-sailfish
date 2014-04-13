@@ -1,8 +1,8 @@
 MythTV remote for Sailfish OS
 =============================
-MythTV Frontend remote application for Sailfish OS licensed under 
-GPLv3. See the license section below for more information about 
-using and redistributing this program. 
+MythTV Frontend remote application for Sailfish OS and is 
+licensed under GPLv3. See the license section below for more 
+information about using and redistributing this program. 
 
 Store aka Jolla Harbour
 -----------------------
